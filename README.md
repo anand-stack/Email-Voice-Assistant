@@ -71,11 +71,11 @@ SOFTWARE REQUIREMENTS:
 
 
 ## Demonstration video
-> Demonstration video : [_here_](https://youtu.be/qXgg4mdmNSg).
+> Demonstration video : [_here_](https://youtu.be/xzqX2rGHeRQ).
 
 
 ## Contact
-Created by [@Hariram2001](https://github.com/Hariram2001) - feel free to contact me!
+Created by [@anand-stack](https://github.com/anand-stack) - feel free to contact me!
 
 
 <!-- Optional -->
